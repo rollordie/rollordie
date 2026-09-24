@@ -12,6 +12,6 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=rollordie&color=ff5b8b&label=shedchance)
 
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ $\text{\color{#ff9ef8} ilysm}$ $\text{\color{#ff5b8b} nova}$ 
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ $\text{\color{#ff9ef8} ilysm}$ $\text{\color{#ff5b8b} chance}$ 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jeazo4iwhxiwdkzdaazmyspt6q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=776e96&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
